@@ -7,10 +7,18 @@ I deal with topological similarity to see the form of data.
 
 > https://desireesdata.fr/la-topologie-appliquee-aux-donnees-documentaires-et-patrimoniales-petit-topo-recreatif-sur-levaluation-de-la-sortie-structuree-via-llms/
 
-## Lauch
+## Launch
+
+Dependencies :
+
+```
+pip install -r requirements.txt
+```
+
+Launch the main script (gudhy.py):
 
 ```
 python3 gudhi.py
-or
+# or
 python gudhy.py
 ```

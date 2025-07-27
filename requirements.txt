@@ -1,0 +1,4 @@
+dtw_python==1.5.3
+gudhi==3.11.0
+matplotlib==3.10.3
+numpy==2.3.2
