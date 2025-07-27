@@ -1,11 +1,7 @@
 import gudhi
 import numpy as np
-import ot
 from gudhi.wasserstein import wasserstein_distance
-from tslearn.metrics import dtw
 import matplotlib.pyplot as plt
-from scipy.spatial.distance import euclidean
-from fastdtw import fastdtw
 from dtw import dtw as dtw_viz
 
 # Chargement des matrices de similarité
