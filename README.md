@@ -1,5 +1,5 @@
 
-# Experiment with the topology to evaluate the structured output of the LLM
+# Evaluate the structured output of the LLM by experimenting with the topology
 
 I deal with topological similarity to see the form of data.
 
